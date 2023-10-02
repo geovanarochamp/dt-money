@@ -1,0 +1,92 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-07-31T12:46:45.281Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-07-30T19:46:45.281Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite RocketSeat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-07-31T19:46:45.281Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-08-03T10:23:56.682Z",
+      "id": 4
+    },
+    {
+      "description": "Banana",
+      "price": 2,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-03T10:33:35.522Z",
+      "id": 5
+    },
+    {
+      "description": "Maçã",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-03T10:34:10.845Z",
+      "id": 6
+    },
+    {
+      "description": "Salário GD",
+      "price": 3250,
+      "category": "Recebíveis",
+      "type": "income",
+      "createdAt": "2023-08-03T10:34:48.757Z",
+      "id": 7
+    },
+    {
+      "description": "Escola",
+      "price": 1950,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2023-08-03T10:36:26.450Z",
+      "id": 8
+    },
+    {
+      "description": "Personal",
+      "price": 1080,
+      "category": "Saúde",
+      "type": "outcome",
+      "createdAt": "2023-08-03T10:37:18.598Z",
+      "id": 9
+    },
+    {
+      "description": "Limpeza",
+      "price": 1600,
+      "category": "Funcionários",
+      "type": "outcome",
+      "createdAt": "2023-08-03T10:37:56.222Z",
+      "id": 10
+    },
+    {
+      "description": "Salário Tinnova",
+      "price": 15000,
+      "category": "Recebíveis",
+      "type": "income",
+      "createdAt": "2023-08-03T10:38:46.024Z",
+      "id": 11
+    }
+  ]
+}
